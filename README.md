@@ -58,8 +58,8 @@ O código está implementado no arquivo `src/abrigo-animais.js`, que contém a c
 ### Passos para Configuração
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/gustavoviniciuse/teste-startdb-js.git
-   cd teste-startdb-js
+   git clone https://github.com/gustavoviniciuse/desafio-gustavoviniciuse-2025.git
+   cd desafio-gustavoviniciuse-2025
    ```
 
 2. **Instale as dependências**:
