@@ -39,18 +39,6 @@ O código está implementado no arquivo `src/abrigo-animais.js`, que contém a c
 - `lista`: Array com strings no formato `nome animal - destino` (pessoa 1, pessoa 2 ou abrigo).
 - `erro`: Mensagem de erro, se houver (ex.: "Animal inválido" ou "Brinquedo inválido").
 
-### Exemplo de Uso
-```javascript
-const abrigo = new AbrigoAnimais();
-const resultado = abrigo.encontraPessoas('RATO,BOLA', 'RATO,NOVELO', 'Rex,Fofo');
-console.log(resultado);
-// Saída:
-// {
-//   lista: ['Fofo - abrigo', 'Rex - pessoa 1'],
-//   erro: null
-// }
-```
-
 ### Estrutura do Código
 - **Validação**: Verifica se os animais e brinquedos são válidos (existentes e sem duplicatas).
 - **Cálculo de Sequência**: O método `contemSequencia` calcula quantos brinquedos de um animal aparecem na ordem correta na lista de uma pessoa.
