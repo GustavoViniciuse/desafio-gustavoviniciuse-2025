@@ -112,9 +112,5 @@ Os testes fornecidos cobrem a maioria dos cenários, mas algumas linhas relacion
 
 Se encontrar problemas ou tiver dúvidas, crie uma issue no repositório!
 
-## 📜 Licença
-Este projeto é apenas para fins de avaliação do desafio e não possui uma licença específica.
 
----
-
-**Desenvolvido por Gustavo Vinicius Elias Souza Silva**  
+## Desenvolvido por Gustavo Vinicius Elias Souza Silva
