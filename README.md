@@ -104,15 +104,6 @@ Os testes fornecidos cobrem a maioria dos cenários, mas algumas linhas relacion
 - Testar o limite de 3 adoções por pessoa.
 - Testar duplicatas em brinquedos ou animais.
 
-## 📂 Estrutura do Repositório
-```
-teste-startdb-js/
-├── src/
-│   ├── abrigo-animais.js        # Código principal da solução
-│   ├── abrigo-animais.test.js   # Testes automatizados
-├── package.json                 # Configurações do projeto e dependências
-├── README.md                    # Este arquivo
-```
 
 ## 📬 Como Contribuir ou Testar
 1. Faça um fork do repositório e clone para sua máquina.
