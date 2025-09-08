@@ -1,6 +1,6 @@
 # Desafio Abrigo de Animais
 
-Bem-vindo ao repositório `desafio-seuUsername-2025`! Este projeto é a solução para o **Desafio do Abrigo de Animais**, desenvolvido como parte do processo seletivo de 2025. O objetivo do desafio é criar um sistema em JavaScript que ajuda a encontrar pessoas adequadas para adotar animais de um abrigo, com base em suas preferências de brinquedos e regras específicas.
+Este projeto é a solução para o **Desafio do Abrigo de Animais**, desenvolvido como parte do processo seletivo da StartDB 2025. O objetivo do desafio é criar um sistema em JavaScript que ajuda a encontrar pessoas adequadas para adotar animais de um abrigo, com base em suas preferências de brinquedos e regras específicas.
 
 ## 📖 Sobre o Projeto
 
@@ -70,8 +70,8 @@ console.log(resultado);
 ### Passos para Configuração
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seuUsername/desafio-seuUsername-2025.git
-   cd desafio-seuUsername-2025
+   git clone https://github.com/gustavoviniciuse/teste-startdb-js.git
+   cd teste-startdb-js
    ```
 
 2. **Instale as dependências**:
@@ -118,7 +118,7 @@ Os testes fornecidos cobrem a maioria dos cenários, mas algumas linhas relacion
 
 ## 📂 Estrutura do Repositório
 ```
-desafio-seuUsername-2025/
+teste-startdb-js/
 ├── src/
 │   ├── abrigo-animais.js        # Código principal da solução
 │   ├── abrigo-animais.test.js   # Testes automatizados
@@ -138,5 +138,4 @@ Este projeto é apenas para fins de avaliação do desafio e não possui uma lic
 
 ---
 
-**Desenvolvido por [seuUsername]**  
-Boa sorte a todos no desafio! 🐾
+**Desenvolvido por Gustavo Vinicius Elias Souza Silva**  
